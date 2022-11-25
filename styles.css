@@ -25,7 +25,7 @@
 }
 
 .timeH1{
-    font-size: 7rem;
+    font-size: clamp(31px, 19vw, 110px);
     letter-spacing: 0px;
     text-shadow: 0px 0px 8px black;
 }
